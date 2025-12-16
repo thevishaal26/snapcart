@@ -182,7 +182,8 @@ CI/CD pipeline should run linting, type-checks, and tests before allowing deploy
 
 ## Author
 
-Vishal kumar
+**Vishal Kumar**
 
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-k-94b736262/)
-- GitHub: [https://github.com/yourusername](https://github.com/thevishaal26)
+- [LinkedIn](https://www.linkedin.com/in/vishal-k-94b736262/)  
+- [GitHub](https://github.com/thevishaal26)
+
